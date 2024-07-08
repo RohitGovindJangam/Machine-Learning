@@ -1,0 +1,42 @@
+# Gold Price Prediction
+
+## Introduction
+
+Gold has long been considered a valuable commodity and a safe investment, especially during economic uncertainties. Its price is influenced by various factors, including economic indicators, market conditions, and geopolitical events. Understanding and predicting gold prices is crucial for investors, policymakers, and financial analysts.
+
+## Project Overview
+
+### Primary Purpose
+The "Gold_Price_Prediction.ipynb" notebook aims to predict the price of gold (represented by the Gold ETF, GLD) based on historical data using machine learning techniques. The goal is to develop a predictive model that can forecast gold prices with high accuracy, which can be valuable for investment strategies and risk management.
+
+### Description
+The project involves:
+- Performing exploratory data analysis (EDA) to understand the data.
+- Preprocessing the data (handling missing values, converting data types, etc.).
+- Developing a predictive model for gold prices.
+- Evaluating the model using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) metrics.
+
+## Technologies and Libraries Used
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
+
+## Usage Instructions
+
+1. Open the Jupyter Notebook:
+    ```bash
+    jupyter notebook Gold_Price_Prediction.ipynb
+    ```
+2. Run the cells in the notebook sequentially to understand the data analysis process, data preprocessing steps, model development, and evaluation.
+
+## Contributors
+- [Rohit Jangam](https://github.com/rohitgovindjangam)
+
+## Acknowledgments
+- The data used in this project was sourced from Kaggle.
+
